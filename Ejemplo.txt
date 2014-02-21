@@ -1,8 +1,9 @@
 include <stdio.h>
 
 int main(){
-int a=5, b=10, c;
+int a=5, b=10, c,e=3, f;
 	printf("Hola");
 	printf("Ejemplo");
-	a+b=c
+	a+b=c;
+	c*e=f;
 }
