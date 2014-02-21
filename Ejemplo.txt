@@ -6,4 +6,5 @@ int a=5, b=10, c,e=3, f;
 	printf("Ejemplo");
 	a+b=c;
 	c*e=f;
+	prinrf("Video sobre como hacer un repositorio");
 }
